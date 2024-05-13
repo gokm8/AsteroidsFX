@@ -31,3 +31,11 @@ replay_pid*
 /CommonBullet/target/
 /.idea/
 *.lst
+Asteroid/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+Collision/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Collision/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+Collision/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+Collision/target/test-classes/META-INF/jpms.args
+CommonAsteroid/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Enemy/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+Enemy/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
